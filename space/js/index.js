@@ -34,3 +34,6 @@ load();
 function teste(){
 	alert("Analise de Sistema");
 }
+function teste2(){
+	console.log("teste 2");
+}
